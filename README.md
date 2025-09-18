@@ -9,7 +9,6 @@ The Telecom Churn Analysis project focuses on studying customer behavior to unde
 💡 Reduce churn and improve customer lifetime value (CLV).
 
 ## 🛠 Tech Stack
-
 **Language**: Python
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 **Environment**: Jupyter Notebook
