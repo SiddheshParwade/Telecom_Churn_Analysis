@@ -23,14 +23,14 @@ The **Telecom Churn Analysis** project focuses on studying customer behavior to 
 ## 🛠 Tech Stack  
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Environment:** Jupyter Notebook
+- **Environment:** Jupyter Notebook  
 
 ---
 
 ## 📂 Repository Structure  
-- `ChurnAnalysis.ipynb` → Jupyter Notebook with step-by-step analysis.  
-- `ChurnAnalysis.pdf` → Report with detailed insights and visualizations.  
-- `ChurnAnalysis.docx` → Summary of findings and recommendations.  
+- `ChurnAnalysis (Main File).ipynb` → Jupyter Notebook with step-by-step analysis.  
+- `ChurnAnalysis (Report).pdf` → Detailed report with insights and visualizations.  
+- `CustomerChurn.csv` → Dataset used for analysis.  
 
 ---
 
