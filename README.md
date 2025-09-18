@@ -23,7 +23,7 @@ The **Telecom Churn Analysis** project focuses on studying customer behavior to 
 ## 🛠 Tech Stack  
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Environment:** Jupyter Notebook  
+- **Environment:** Jupyter Notebook
 
 ---
 
@@ -35,7 +35,6 @@ The **Telecom Churn Analysis** project focuses on studying customer behavior to 
 ---
 
 ## 👨‍💻 Author  
-**Siddhesh Parwade**  
-- 🔗 [GitHub](https://github.com/SiddheshParwade)  
+**Siddhesh Parwade** 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/siddheshparwade/)  
 - 📧 siddheshparwade@gmail.com  
